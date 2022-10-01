@@ -1,0 +1,242 @@
+interface Classes {
+            void blackboard();
+        
+            void duster();
+        
+            void chair();
+        
+            void book();
+        
+            void students();
+        }
+        
+        class First implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        class Second implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        class third implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        class Fourth implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        class Fifth implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        class Sixth implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        class Seventh implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        class Eighth implements Classes {
+        
+            @Override
+            public void blackboard() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void duster() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void chair() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void book() {
+                // TODO Auto-generated method stub
+            }
+        
+            @Override
+            public void students() {
+                // TODO Auto-generated method stub
+            }
+        }
+        
+        public class Test {
+            public static void main(String[] args) {
+        
+            }
+        }
+        
